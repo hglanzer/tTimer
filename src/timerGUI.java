@@ -68,7 +68,7 @@ public class timerGUI extends JPanel{
 	private static JTextArea textAreaStop = new JTextArea();
 
 
-	private final JFileChooser fc = new JFileChooser("/home/hglanzer/GIT/tTimer/sounds/");
+	private final JFileChooser fc = new JFileChooser("sounds");
 		
 	public static timerGUI frame = new timerGUI();                  // window for drawing
 	public static JFrame application = new JFrame();                  // the program itself	
