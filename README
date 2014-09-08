@@ -1,0 +1,7 @@
+alarmtime im 'analog' stil
+zeigt aktuelle uhrzeit(= aktuelle lokale zeit des rechners) an
+counter für 'games'
+
+1 game besteht aus folgenden events: <pre-break> <gameduration> <last 5 mins of game> <postbreak>
+
+für jeden event kann ein WAV file geöffnet werden, welches abgespielt wird
